@@ -1,5 +1,11 @@
 # @astrojs/node
 
+## 0.0.2-next.1
+
+### Patch Changes
+
+- [#2934](https://github.com/withastro/astro/pull/2934) [`13b271bc`](https://github.com/withastro/astro/commit/13b271bc7d032f5f3749a9868532d12d442a09ef) Thanks [@matthewp](https://github.com/matthewp)! - Add a Deno adapter for SSR
+
 ## 0.0.2-next.0
 
 ### Patch Changes
